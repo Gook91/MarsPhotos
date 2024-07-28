@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Фотографии с Марса</string>
+    <string name="rover_name">Ровер: %1$s</string>
+    <string name="camera_name">Камера: %1$s</string>
+    <string name="date_photo">Дата: %1$s</string>
+    <string name="sol_number">Сол: %1$d </string>
+
+    <string name="error_message">Ошибка загрузки: попробуйте обновить список</string>
+
+    <string name="photo_fragment_title">Фотография:</string>
+</resources>
